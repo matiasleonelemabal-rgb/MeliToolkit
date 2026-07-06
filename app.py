@@ -3220,3 +3220,6 @@ elif herramienta == "Best_price":
 
 elif herramienta == "Analista General":
     mostrar_herramienta_analista_general()
+
+elif herramienta == "Analista General":
+    mostrar_herramienta_analista_general()
