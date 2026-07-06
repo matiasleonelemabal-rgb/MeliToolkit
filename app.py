@@ -10,6 +10,8 @@ import pandas as pd
 import streamlit as st
 from openpyxl import load_workbook
 
+from estilos import aplicar_tema, encabezado, logo_sidebar
+
 
 # ============================================================
 # CONFIGURACIÓN APP
@@ -20,6 +22,9 @@ st.set_page_config(
     page_icon="📦",
     layout="wide"
 )
+
+# Estilo de marca LA TRIBU (amarillo + negro industrial)
+aplicar_tema()
 
 
 # ============================================================
@@ -1111,8 +1116,7 @@ def procesar_integraly(integraly_bytes, actualizacion_bytes):
 
 
 def mostrar_herramienta_integraly():
-    st.title("Actualizar Integraly")
-    st.caption("Actualiza precio, stock y estado por SKU.")
+    encabezado("Actualizar Integraly", "Actualiza precio, stock y estado por SKU.")
 
     st.warning(
         "La herramienta toma los precios del archivo Global, limpia ARS, convierte a número "
@@ -1654,8 +1658,7 @@ def procesar_agente_publicador(agente_bytes, publicar_bytes):
 
 
 def mostrar_herramienta_agente_publicador():
-    st.title("Agente Publicador")
-    st.caption("Completa el archivo Publicar usando el AGENTE PUBLICADOR BASE.")
+    encabezado("Agente Publicador", "Completa el archivo Publicar usando el AGENTE PUBLICADOR BASE.")
 
     st.warning(
         "Esta herramienta es independiente de Integraly. "
@@ -2708,11 +2711,11 @@ def mostrar_modo_detalle_bp(config, activos):
 
 
 def mostrar_herramienta_best_price():
-    st.title("Best Price")
-    st.caption(
+    encabezado(
+        "Best Price",
         "Precio final con IVA por artículo. Subís cada lista una vez; queda "
         "activa hasta que la reemplaces. Cada proveedor puede tener su "
-        "propia fórmula de costo."
+        "propia fórmula de costo.",
     )
 
     config = cargar_config_best_price()
@@ -2748,7 +2751,7 @@ def mostrar_herramienta_best_price():
 # SIDEBAR / ROUTER PRINCIPAL
 # ============================================================
 
-st.sidebar.title("ML Toolkit")
+logo_sidebar()
 
 herramienta = st.sidebar.selectbox(
     "Elegí herramienta",
