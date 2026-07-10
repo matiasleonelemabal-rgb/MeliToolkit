@@ -1,0 +1,93 @@
+{
+  "crique_carrito_2t": {
+    "nombre": "Crique Hidráulico Tipo Carrito 2 Toneladas",
+    "sku": "2TCARRITO",
+    "precio": 72419.00,
+    "descripcion_corta": "crique hidráulico tipo carrito 2 toneladas",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "CRIQUE HIDRÁULICO TIPO CARRITO 2 TONELADAS\n\nEl crique hidráulico tipo carrito 2 Toneladas permite elevar el vehículo de forma estable y controlada durante tareas de auxilio vial, mantenimiento básico o cambio de rueda.\n\n- Capacidad de carga de 2 Toneladas, equivalente a 2000 kg.\n\n- Mecanismo hidráulico para realizar la maniobra de elevación.\n\n- Válvula de seguridad incorporada.\n\n- Ruedas traseras giratorias que facilitan el posicionamiento del crique debajo del vehículo.\n\n- Formato tipo carrito que permite desplazar y acomodar la herramienta durante la maniobra de elevación.\n\nMEDIDAS APROXIMADAS\n\n- Largo del crique: 42 cm aprox.\n\n- Ancho delantero: 13,5 cm aprox., medido de extremo a extremo del sector delantero.\n\n- Ancho trasero: 19 cm aprox., medido de extremo a extremo del sector de ruedas del lado de la palanca.\n\n- Altura mínima: 13 cm aprox.\n\n- Altura máxima: 32 cm aprox.\n\n- Capacidad de carga: 2 Toneladas, equivalente a 2000 kg.\n\n- Largo de la palanca: 38 cm aprox.\n\n- Diámetro de la palanca: 1,8 cm aprox.\n\n- Diámetro del agarre de la palanca: 2,3 cm aprox."
+  },
+  "llave_cruz": {
+    "nombre": "Llave Cruz Niquelada 4 Medidas 17, 19, 21 y 23 mm",
+    "sku": "LC010",
+    "precio": 11783.00,
+    "descripcion_corta": "llave cruz niquelada con bocas de 17, 19, 21 y 23 mm",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "LLAVE CRUZ NIQUELADA 4 MEDIDAS 17, 19, 21 Y 23 MM\n\nLa llave cruz niquelada permite aflojar y ajustar tuercas hexagonales de rueda durante tareas de cambio de neumáticos, auxilio vial y mantenimiento automotriz.\n\n- Incluye 1 llave cruz niquelada.\n\n- Diseño en cruz que permite aplicar fuerza durante la maniobra de ajuste o desmontaje de la rueda.\n\n- Fabricada en acero forjado de alta resistencia.\n\n- Acabado niquelado opaco.\n\n- Formato 4 en 1 con cuatro bocas para tuercas hexagonales en una sola herramienta.\n\n- Ideal para llevar en el baúl o compartimiento de herramientas del vehículo.\n\nMEDIDAS APROXIMADAS\n\n- Largo: 35,5 cm aprox.\n\n- Boca para tuercas hexagonales: 23 mm.\n\n- Boca para tuercas hexagonales: 21 mm.\n\n- Boca para tuercas hexagonales: 19 mm.\n\n- Boca para tuercas hexagonales: 17 mm"
+  },
+  "guantes_trabajo": {
+    "nombre": "Guantes de Trabajo Antideslizantes con Puntos de PVC",
+    "sku": "GUANTES",
+    "precio": 2586.00,
+    "descripcion_corta": "guantes de trabajo antideslizantes con puntos de pvc en la palma",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "GUANTES DE TRABAJO ANTIDESLIZANTES\n\nLos guantes de trabajo brindan protección y agarre durante tareas de mecánica ligera, manipulación de herramientas, carga, descarga y trabajos generales.\n\n- Incluye 1 par, compuesto por 2 guantes.\n\n- Diseño para 5 dedos: pulgar, índice, medio, anular y meñique.\n\n- Puntos de PVC antideslizantes ubicados en la palma de la mano para mejorar el agarre de herramientas y piezas.\n\n- El dorso de la mano no posee puntos de PVC antideslizantes.\n\n- Tejido de algodón y poliéster.\n\n- Puños elásticos que favorecen el ajuste del guante.\n\n- Talle único de uso general.\n\nMEDIDAS APROXIMADAS\n\n- Largo: 22 cm aprox.\n\n- Ancho: 13 cm aprox."
+  },
+  "chaleco_reflectivo": {
+    "nombre": "Chaleco Reflectivo de Alta Visibilidad",
+    "sku": "CHA001",
+    "precio": 2586.00,
+    "descripcion_corta": "chaleco reflectivo de alta visibilidad con bandas reflectantes",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "CHALECO REFLECTIVO DE ALTA VISIBILIDAD\n\nEl chaleco reflectivo permite mejorar la visibilidad del usuario durante detenciones, tareas de auxilio vial y situaciones de emergencia en ruta, ciudad o vía pública.\n\n- Incluye 1 chaleco reflectivo.\n\n- Color flúor vibrante de alta visibilidad.\n\n- Bandas reflectantes de 360° que favorecen la visibilidad del usuario.\n\n- Fabricado en poliéster de malla ligera y respirable.\n\n- Diseño amplio para facilitar su colocación sobre otras prendas.\n\n- Talle universal de uso general.\n\nMEDIDAS APROXIMADAS\n\n- Largo: 67,5 cm aprox.\n\n- Ancho: 56 cm aprox."
+  },
+  "baliza_reflectiva": {
+    "nombre": "Baliza Reflectiva Homologada con Caja Protectora",
+    "sku": "WARBAL001",
+    "precio": 6207.00,
+    "descripcion_corta": "baliza reflectiva homologada con patas metálicas extensibles y caja protectora",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "BALIZA REFLECTIVA HOMOLOGADA\n\nLa baliza reflectiva permite señalizar la presencia de un vehículo detenido durante situaciones de emergencia, auxilio vial o detenciones en ruta y vía pública.\n\n- Incluye 1 baliza reflectiva homologada.\n\n- Fabricada con material acrílico rojo y tela reflectiva.\n\n- Estructura plegable que facilita el armado y guardado.\n\n- Cuenta con 4 patas o soportes metálicos extensibles.\n\n- Incorpora 2 soportes delanteros y 2 soportes traseros.\n\n- Incluye caja protectora roja para facilitar el almacenamiento y guardado en el vehículo.\n\nMEDIDAS APROXIMADAS\n\n- Ancho de la baliza: 45 cm aprox.\n\n- Alto de la baliza: 39 cm aprox.\n\n- Largo con patas extendidas, medido de extremo a extremo: 74,5 cm aprox.\n\n- Largo de la caja de guardado: 45 cm aprox.\n\n- Alto de la caja de guardado: 4 cm aprox.\n\n- Ancho de la caja de guardado: 3 cm aprox."
+  },
+  "cono_reflectivo_plegable": {
+    "nombre": "Cono Reflectivo Plegable de 40 cm",
+    "sku": "CON001",
+    "precio": 15751.00,
+    "descripcion_corta": "cono reflectivo plegable de 40 cm con banda reflectiva y base plástica",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "CONO REFLECTIVO PLEGABLE DE 40 CM\n\nEl cono reflectivo plegable permite señalizar detenciones, emergencias viales y sectores de trabajo, combinando visibilidad con un formato compacto para su guardado.\n\n- Incluye 1 cono reflectivo plegable.\n\n- Tela color naranja flúor de alta visibilidad.\n\n- Banda reflectiva de alta intensidad que favorece la visibilidad durante la señalización.\n\n- Diseño plegable que permite reducir el tamaño del cono para facilitar su transporte y guardado.\n\n- Base cuadrada plástica que proporciona estabilidad y resistencia.\n\n- Ideal para llevar en el baúl del vehículo y utilizar durante situaciones de auxilio vial o emergencia.\n\nMEDIDAS APROXIMADAS\n\n- Alto del cono desplegado: 40 cm aprox.\n\n- Ancho de la base plástica: 24,5 x 24,5 cm aprox.\n\n- Alto de la base plástica: 4 cm aprox."
+  },
+  "minicompresor_12v": {
+    "nombre": "Compresor de Aire Portátil 12V con Manómetro",
+    "sku": "COM001",
+    "precio": 39572.00,
+    "descripcion_corta": "compresor de aire portátil 12v con manómetro y kit de 3 picos adaptadores",
+    "modelo_por_categoria": {
+      "kit_seguridad": "",
+      "compresor": "",
+      "crique": ""
+    },
+    "fotos": "",
+    "descripcion_tecnica": "COMPRESOR DE AIRE PORTÁTIL 12V CON MANÓMETRO\n\nEl compresor de aire portátil 12V permite inflar neumáticos y otros elementos inflables mediante su conexión a la ficha de encendedor de 12V del vehículo.\n\n- Incluye 1 compresor de aire portátil 12V.\n\n- Cuerpo fabricado en metal, aleación de aluminio y plástico.\n\n- Manómetro incorporado en la parte superior del cuerpo del compresor para visualizar la presión durante el inflado.\n\n- Botón de encendido y apagado ON/OFF.\n\n- Manija superior que facilita el agarre y transporte del compresor.\n\n- Cable de energía con conexión para ficha de encendedor de 12V.\n\n- Incluye kit de 3 picos adaptadores para inflar neumáticos y diferentes elementos deportivos o recreativos.\n\nDATOS DE ETIQUETA\n\n- Voltaje: DC 12V.\n\n- Amperaje máximo: 10 Amp.\n\n- Presión máxima: 150 PSI.\n\n- Desplazamiento de aire: 25 L/min +/- 10%.\n\nMEDIDAS APROXIMADAS\n\n- Largo del compresor: 16 cm aprox.\n\n- Alto del compresor: 14 cm aprox.\n\n- Ancho del compresor: 8 cm aprox.\n\n- Largo del cable de energía 12V: 260 cm aprox.\n\n- Largo de la manguera de aire: 90 cm aprox.\n\n- Diámetro del manómetro: 5 cm aprox."
+  }
+}
