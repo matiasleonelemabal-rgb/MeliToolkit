@@ -16,11 +16,11 @@ import streamlit as st
 # ---- Paleta (usar en otros lados si hace falta) ------------
 COLORES = {
     "amarillo": "#FFD400",
-    "fondo": "#0f1216",
+    "fondo": "#ff5a4d",
     "panel": "#14171c",
     "borde": "#23272e",
     "sidebar": "#0b0d10",
-    "texto": "#eceef1",
+    "texto": "#ff5a4d",
     "apagado": "#8b95a3",
     "verde": "#3fd07f",
     "rojo": "#ff5a4d",
@@ -72,6 +72,7 @@ def logo_sidebar():
 _CSS = """
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
 
 /* ---------- Base ---------- */
 html, body, [class*="css"], .stApp, [data-testid="stAppViewContainer"] {
